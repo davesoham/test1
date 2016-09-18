@@ -8,7 +8,7 @@ int main()
     double test;
     double x;
     double y;
-
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
     cout << "Enter no of gallons: ";
     cin >> x;
     cout << "\n" << x << " is number you entered.\n";
