@@ -22,7 +22,7 @@ int main()
 
     if ( fmod(x,y) != 0 )
         cans++;
-    cout << cans << "\n";
+    //cout << cans << "\n";
 
     return 0;
 
